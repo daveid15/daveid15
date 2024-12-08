@@ -20,9 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Bizagi_logo_2022.svg" alt="Bizagi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/StarUML_Logo.png" alt="StarUML" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Bizagi_Logo.png" alt="Bizagi" width="40" height="40"/>
+  <img src="https://staruml.io/images/staruml-logo.png" alt="StarUML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
+
 
