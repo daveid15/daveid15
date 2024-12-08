@@ -1,4 +1,5 @@
 ## Hello, I'm David 👋  
+## Student at Autonomous University of Chile
 
 ![Banner](Banner.png)  
 
@@ -11,15 +12,17 @@
 - 📫 How to reach me: [davidmoalejandro@gmail.com]  
 - ⚡ Fun fact: I believe video games can inspire creativity and problem-solving.  
 
-### 🛠️ Tools & Technologies  
 
-#### 📖 **Languages**  
-- **Programming:** Python,JavaScript,Java, HTML/CSS  
-- **Databases:** SQL,NoSQL
+### 🛠️ Tools & Technologies:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Bizagi_logo_2022.svg" alt="Bizagi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/StarUML_Logo.png" alt="StarUML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
-####🛠️ **Tools**  
-- **Modeling & Design:** Bizagi, StarUML  
-- **Version Control:** Git/GitHub  
-- **Interests:** Software development, technology in education  
-
-Feel free to connect or collaborate with me on projects! 🚀  
