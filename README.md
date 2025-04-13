@@ -1,5 +1,5 @@
 ## Hello, I'm David 👋  
-## Student at Autonomous University of Chile
+## Student at Universidad Autonoma de Chile
 
 ![Banner](Banner.png)  
 
